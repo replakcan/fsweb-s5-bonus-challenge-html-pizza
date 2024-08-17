@@ -47,6 +47,7 @@ body {
   padding: 10%;
   text-align: center;
 }
+
 .poster-container {
   display: flex;
   flex-direction: column;
@@ -61,10 +62,11 @@ body {
 
 .btn {
   font-size: 1.5rem;
-  padding: 0.2rem 2rem 0.2rem 2rem;
+  padding: 0.2rem 2.5rem 0.2rem 2.5rem;
   border: 1px;
   border-radius: 1.5rem;
   color: black;
+  background: #FDC913;
 }
 
 /* END poster-section */
