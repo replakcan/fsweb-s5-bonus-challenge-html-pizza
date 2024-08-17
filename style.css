@@ -297,6 +297,9 @@ span {
 
 .footer-container h1 {
   margin: 0;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-family: 'Londrina Solid';
 }
 
 .footer-container h3 {
