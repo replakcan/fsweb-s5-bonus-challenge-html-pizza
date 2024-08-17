@@ -58,6 +58,8 @@ body {
 .slogan {
   font-size: 5rem;
   line-height: 5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .btn {
