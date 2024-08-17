@@ -42,6 +42,10 @@ body {
   background-repeat: no-repeat;
 }
 
+ul {
+  list-style-type: none;
+}
+
 /* poster-section */
 .poster-section {
   padding: 10%;
