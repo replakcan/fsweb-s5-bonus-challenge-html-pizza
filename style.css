@@ -139,14 +139,16 @@ ul {
   background-size: cover;
 }
 
-.card-item.first-item p:first-child {
-  font-size: 4rem;
-}
-
 .card-item p {
   margin: 0;
+  margin-bottom: 2rem;
+}
+
+.card-item.first-item p:first-child {
+  font-size: 4rem;
   margin-bottom: 1rem;
 }
+
 
 .btn-2 {
   padding: 1rem 1.5rem 1rem 1.5rem;
