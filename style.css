@@ -112,6 +112,9 @@ ul {
 
 /* siparis-container */
 
+.description-section {
+  background: #FAF7F2;
+}
 .siparis-container {
   margin: 1rem 10%;
   display: flex;
