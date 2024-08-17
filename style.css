@@ -123,11 +123,19 @@ ul {
 .card {
   padding: 0;
   margin: 0;
+  border: 1px solid;
+  border-radius: 0.5rem;
 }
 .card-item {
   border: 1px solid yellow;
   display: inline-block;
 }
+
+.card:first-child {
+  background-image: url('assets/iteration-2/cta/kart-1.png');
+  background-size: cover;
+}
+
 .card-item.first-item p:first-child {
   font-size: 4rem;
 }
