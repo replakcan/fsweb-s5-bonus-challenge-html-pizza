@@ -247,6 +247,10 @@ span {
   display: inline;
 }
 
+.pizza-card-item h3 {
+  margin: 0;
+}
+
 .pizza-container p {
   display: inline;
 }
