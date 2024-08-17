@@ -269,6 +269,20 @@ span {
   font-weight: 600;
 }
 
+/* ------------------- */
+
+.footer-container {
+  margin: 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-header h2 {
+  margin: 0;
+}
+
 /* END description-section*/
 
 
