@@ -118,6 +118,19 @@ ul {
   gap: 1rem;
 }
 
+.card {
+}
+.card-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.card-item.first-item p:first-child {
+  font-size: 4rem;
+}
+
 /* END siparis-container */
 
 
