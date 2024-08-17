@@ -51,15 +51,20 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 0;
 }
 
-.poster-container h1{
-  margin: 0;
-  
-}
 .slogan {
   font-size: 5rem;
   line-height: 5rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+  padding: 0.2rem 2rem 0.2rem 2rem;
+  border: 1px;
+  border-radius: 1.5rem;
+  color: black;
 }
 
 /* END poster-section */
