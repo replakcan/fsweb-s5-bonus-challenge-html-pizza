@@ -263,6 +263,11 @@ span {
 
 .double-item {
   display: flex;
+  gap: 3rem;
+}
+
+.double-item p:nth-child(2) {
+  font-weight: 600;
 }
 
 /* END description-section*/
