@@ -56,10 +56,12 @@ body {
 }
 
 .slogan {
-  font-size: 5rem;
-  line-height: 5rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  font-family: 'Roboto Condensed';
+  font-weight: 300;
+  font-size: 6rem;
+  line-height: 6rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .btn {
