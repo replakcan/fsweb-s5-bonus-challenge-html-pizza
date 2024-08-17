@@ -31,14 +31,28 @@ a:hover {
 body {
   max-width: 600px;
   margin: 0;
+  padding: 0;
   display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  flex-direction: column;
+  background-image: url("./assets/iteration-1/home-banner.png");
+  background-position: center;
 }
+
 .poster-section {
-  margin: auto;
+  margin: 0;
+  padding: 10%;
   text-align: center;
+}
+.poster-container h1{
+  margin: 0;
+  
+}
+.slogan {
+  font-size: 5rem;
+  line-height: 5rem;
 }
 
 
