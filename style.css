@@ -271,6 +271,10 @@ span {
 
 /* ------------------- */
 
+
+.footer-section {
+  background: #292929;
+}
 .footer-container {
   margin: 10%;
   display: flex;
@@ -279,8 +283,58 @@ span {
   align-items: flex-start;
 }
 
-.footer-header h2 {
+.footer-header{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  margin-bottom: 3rem;
+}
+
+.footer-header ul {
+  display: contents;
+}
+
+.footer-container h1 {
   margin: 0;
+}
+
+.footer-container h3 {
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+}
+
+.footer-menu ul {
+  display: contents;
+}
+
+.footer-menu {
+  margin-bottom: 3rem;
+  line-height: 2rem;
+}
+
+.footer-header li {
+  max-width: 22rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  row-gap: 0;
+}
+
+.footer-socials ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  max-width: 350px;
+}
+
+.footer-copyright {
+  display: flex;
+  margin-top: 5rem;
+  justify-content: space-between;
+  gap: 13rem;
 }
 
 /* END description-section*/
