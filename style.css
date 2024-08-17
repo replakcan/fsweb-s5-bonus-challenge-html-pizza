@@ -90,6 +90,7 @@ ul {
 /* header-container */
 .header-container {
   padding: 0 3rem;
+  background: white;
 }
 .header-container ul {
   padding: 0 10%;
