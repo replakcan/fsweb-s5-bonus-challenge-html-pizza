@@ -193,19 +193,11 @@ ul {
 .img-div.first-item{
   width: 200px;
   height: 200px;
-  background-image: url("assets/iteration-2/cta/kart-2.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .img-div.second-item{
   width: 200px;
   height: 200px;
-  background-image: url("assets/iteration-2/cta/kart-3.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .card-item.second-item p {
