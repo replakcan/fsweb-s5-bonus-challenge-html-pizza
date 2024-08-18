@@ -212,6 +212,13 @@ ul {
   font-size: 2rem;
 }
 
+.card.third{
+background-image: url("assets/iteration-2/cta/kart-3.png");
+background-size:cover;
+background-repeat: no-repeat;
+background-position: 70%;
+}
+
 .card-item.third-item p {
   font-size: 2rem;
 }
