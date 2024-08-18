@@ -246,7 +246,11 @@ span {
 }
 
 .pizza-card {
-  display: inline;
+  border: 1px;
+  border-radius: 1rem;
+  background-color: white;
+  padding: 2rem;
+
 }
 
 .pizza-card-item h3 {
