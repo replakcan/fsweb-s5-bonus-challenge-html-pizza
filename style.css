@@ -113,6 +113,7 @@ ul {
   border: 1px;
   border-radius: 2rem;
   padding-left: 1rem;
+  background-color: white;
 }
 
 .header-container.second li:nth-child(2) {
