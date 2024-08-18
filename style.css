@@ -204,6 +204,13 @@ ul {
   font-size: 2rem;
 }
 
+.card.second{
+  background-image: url("assets/iteration-2/cta/kart-2.png");
+  background-size:60%;
+  background-repeat: no-repeat;
+  background-position: 80%;
+  }
+
 .card.third{
 background-image: url("assets/iteration-2/cta/kart-3.png");
 background-size:cover;
