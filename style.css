@@ -1,5 +1,5 @@
 * {
-  border: 1px;
+  border: 1px solid purple;
 }
 
 :root {
@@ -93,7 +93,7 @@ ul {
   background: white;
 }
 .header-container ul {
-  padding: 0 10%;
+  padding: 0 5%;
   margin: 0;
   display: flex;
   gap: 1.5rem;
@@ -126,7 +126,7 @@ ul {
 
 
 .header-container.second ul {
-  padding: 0 5%;
+  padding: 0 2%;
 }
 /* END header-container */
 
@@ -351,6 +351,10 @@ span {
   gap: 5rem;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
 /* END description-section*/
 
 
