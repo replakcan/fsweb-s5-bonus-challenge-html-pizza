@@ -1,3 +1,7 @@
+* {
+  border: 1px solid;
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -342,9 +346,10 @@ span {
 
 .footer-copyright {
   display: flex;
+  width : 100%;
   margin-top: 5rem;
   justify-content: space-between;
-  gap: 13rem;
+  gap: 5rem;
 }
 
 /* END description-section*/
