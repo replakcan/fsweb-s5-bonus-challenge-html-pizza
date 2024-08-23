@@ -1,7 +1,3 @@
-* {
-  border: 1px solid purple;
-}
-
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -114,7 +110,7 @@ ul {
 }
 
 .header-container.second li {
-  border: 1px;
+  border: 1rem;
   border-radius: 2rem;
   padding-left: 1rem;
   background-color: white;
